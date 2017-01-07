@@ -1217,7 +1217,7 @@ exports.Formats = [
 		name: "[Gen 1] Stadium",
 
 		mod: 'stadium',
-		searchShow: false,
+		searchShow: true,
 		ruleset: ['Pokemon', 'Standard', 'Team Preview'],
 		banlist: ['Uber',
 			'Nidoking + Fury Attack + Thrash', 'Exeggutor + Poison Powder + Stomp', 'Exeggutor + Sleep Powder + Stomp',
