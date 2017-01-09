@@ -45,7 +45,28 @@ exports.BattleTypeChart = {
 			"Water": 0,
 		},
 	},
-	
+	"Sound": {
+		damageTaken: {
+			"Bug": 0,
+			"Dark": 0,
+			"Dragon": 0,
+			"Electric": 0,
+			"Fighting": 2,
+			"Fire": 2,
+			"Fairy": 2,
+			"Flying": 0,
+			"Ghost": 1,
+			"Grass": 1,
+			"Ground": 0,
+			"Ice": 1,
+			"Normal": 0,
+			"Poison": 0,
+			"Psychic": 0,
+			"Rock": 0,
+			"Steel": 0,
+			"Water": 0,
+		},
+	},
 	"Ice": {
 		inherit: true,
 		damageTaken: {
